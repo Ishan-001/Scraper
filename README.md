@@ -1,2 +1,2 @@
 # Scraper
-- Project on Web Scraping using Kotlin and Android Studio.
+- Project on Web Scraping in Android Studio using Kotlin.
